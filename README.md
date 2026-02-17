@@ -1,33 +1,42 @@
-# Olá, eu sou o Jeremias! 👋
+# Jeremias | Software Engineer & SaaS Architect 🚀
 
-### 🚀 Desenvolvedor Backend em Evolução | Focado em Sistemas ERP/CRM (SaaS)
-
-Atualmente estou aprofundando meus conhecimentos em **Git e GitHub** para organizar meus projetos e, em seguida, mergulhar de cabeça no ecossistema **Node.js** e **TypeScript**. Meu objetivo é construir sistemas robustos e modulares, como o meu projeto de **Departamento Pessoal (DP)**.
+Desenvolvedor Backend focado na construção de sistemas empresariais de alta complexidade (**ERP/CRM/SaaS**). Atualmente, dedico minha engenharia ao desenvolvimento de soluções modulares para a área de **Recursos Humanos e Departamento Pessoal**, priorizando consistência de dados e escalabilidade.
 
 ---
 
-### 🛠️ No que estou trabalhando agora:
-- 🔭 Finalizando a versão modular do meu sistema de **DP em Python**.
-- 🌱 Estudando a fundo **Lógica de Programação** e manipulação de dados.
-- 🏗️ Planejando a migração para a stack **Node.js + TypeScript + PostgreSQL**.
+### 🛠️ Core Engineering Stack
+* **Languages & Runtimes:** Python (Core), Node.js, TypeScript.
+* **Data Modeling:** PostgreSQL, Modelagem de Dados Relacionais.
+* **Architecture & Patterns:** Clean Architecture, Modular Design, Git Flow.
+* **Frontend Integration:** HTML5, Modern JavaScript.
 
 ---
 
-### 💻 Minha Stack e Ferramentas:
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+### 🏗️ Featured Project: HR/Payroll Engine (SaaS-Ready)
+Este é o meu projeto principal, onde aplico conceitos avançados de backend para resolver problemas reais de gestão empresarial.
+
+* **O Problema:** A complexidade de cálculos e regras de negócio em sistemas de Departamento Pessoal (DP).
+* **A Solução:** Um sistema modular desenvolvido em **Python** (v1), projetado para ser agnóstico e escalável.
+* **Fase Atual:** Migração estratégica da arquitetura para **Node.js + TypeScript** visando alta performance e tipagem estrita em ambientes SaaS.
+* **Destaque Técnico:** Implementação de lógica de funções puras para processamento de dados e estruturação de banco de dados relacional.
 
 ---
 
-### 🎯 Objetivos Futuros:
-- [ ] Dominar **Clean Architecture** para sistemas SaaS.
-- [ ] Implementar bancos de dados relacionais avançados (**SQL**).
-- [ ] Transformar meus projetos em soluções escaláveis na nuvem.
+### 📈 Roadmap de Evolução Técnica
+Meu foco está em construir sistemas que não apenas funcionem, mas que sejam fáceis de manter e escalar:
+
+- [x] **Arquitetura Modular:** Separação de responsabilidades no sistema de DP.
+- [ ] **Data Persistence:** Implementação avançada de PostgreSQL e Migrations.
+- [ ] **Enterprise Patterns:** Aplicação de *Domain-Driven Design (DDD)* e *Clean Architecture*.
+- [ ] **Cloud Native:** Deploy e orquestração de microsserviços para sistemas ERP.
 
 ---
 
-### 📫 Como me encontrar:
-- 💼 [Seu LinkedIn Aqui](https://www.linkedin.com/in/SEU-PERFIL)
-- 📧 [Seu E-mail Aqui]
+### 🤝 Conexão Profissional
+Estou sempre aberto a discussões técnicas sobre arquitetura de sistemas, desafios de backend e o ecossistema SaaS.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jeremiascoradoguedes)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jeremiasfonsecacorado@gmail.com)
+
+---
+*“Software is a great combination between artistry and engineering.”*
