@@ -32,6 +32,26 @@ Meu foco está em construir sistemas que não apenas funcionem, mas que sejam f�
 
 ---
 
+### 📊 Estatísticas de Engenharia
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Jerezincoc&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jerezincoc&layout=compact&langs_count=7&theme=dracula"/>
+</div>
+
+---
+### 🛠️ Tech Stack
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" alt="Python" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40" alt="Node.js" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40" alt="TypeScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" height="40" alt="PostgreSQL" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" alt="Git" />
+</div>
+---
+![Snake animation]
+(https://github.com/Jerezincoc/Jerezincoc/blob/output/github-contribution-grid-snake.svg)
+---
+
 ### 🤝 Conexão Profissional
 Estou sempre aberto a discussões técnicas sobre arquitetura de sistemas, desafios de backend e o ecossistema SaaS.
 
