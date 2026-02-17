@@ -38,6 +38,7 @@ Meu foco está em construir sistemas que não apenas funcionem, mas que sejam f�
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jerezincoc&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
+
 ---
 ### 🛠️ Tech Stack
 <div align="left">
@@ -48,8 +49,10 @@ Meu foco está em construir sistemas que não apenas funcionem, mas que sejam f�
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" alt="Git" />
 </div>
 ---
-![Snake animation]
-(https://github.com/Jerezincoc/Jerezincoc/blob/output/github-contribution-grid-snake.svg)
+
+### 🐍 Snake Contribution Graph
+![Snake animation](https://github.com/Jerezincoc/Jerezincoc/raw/output/github-contribution-grid-snake.svg)
+
 ---
 
 ### 🤝 Conexão Profissional
