@@ -31,15 +31,6 @@ Meu foco está em construir sistemas que não apenas funcionem, mas que sejam f�
 - [ ] **Cloud Native:** Deploy e orquestração de microsserviços para sistemas ERP.
 
 ---
-
-### 📊 Estatísticas de Engenharia
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Jerezincoc&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jerezincoc&layout=compact&langs_count=7&theme=dracula"/>
-</div>
-
-
----
 ### 🛠️ Tech Stack
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" alt="Python" />
@@ -48,10 +39,6 @@ Meu foco está em construir sistemas que não apenas funcionem, mas que sejam f�
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" height="40" alt="PostgreSQL" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" alt="Git" />
 </div>
----
-
-### 🐍 Snake Contribution Graph
-![Snake animation](https://github.com/Jerezincoc/Jerezincoc/raw/output/github-contribution-grid-snake.svg)
 
 ---
 
